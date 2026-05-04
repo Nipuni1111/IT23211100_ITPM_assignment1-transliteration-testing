@@ -1,0 +1,6 @@
+
+playwright
+openpyxl
+
+
+GITHUB LINK - https://github.com/Nipuni1111/IT23211100_ITPM_assignment1-transliteration-testing.git
